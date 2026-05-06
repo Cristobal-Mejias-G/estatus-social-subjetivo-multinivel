@@ -18,7 +18,7 @@ El estatus social subjetivo ha sido un tema poco explorado en América Latina, p
 
 <p align="center">
   <a href="https://cristobal-mejias-g.github.io/estatus-social-subjetivo-multinivel/documento.html">
-    <h2> Ver Investigación</h2>
+    <strong> Ver Investigación</strong>
   </a>
 </p>
 
