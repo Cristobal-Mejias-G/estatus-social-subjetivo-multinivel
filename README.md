@@ -26,7 +26,7 @@ El estatus social subjetivo ha sido un tema poco explorado en América Latina, p
 
 ---
 
-## Estructura del repositorio
+## 🗂️ Estructura del repositorio
 
 ```
 .
@@ -46,7 +46,7 @@ El estatus social subjetivo ha sido un tema poco explorado en América Latina, p
 
 ---
 
-## Requisitos
+## 🛠️ Requisitos
 
 Este proyecto usa **R** con Quarto. Las principales librerías son:
 
@@ -61,7 +61,7 @@ pacman::p_load(lme4, lmerTest, sjPlot, ggplot2, tidyverse, gt, influence.ME, ...
 
 ---
 
-## Contexto académico
+## 📚 Contexto académico
 
 Este trabajo fue desarrollado en el marco del curso **Análisis de Datos Multinivel** de la Facultad de Ciencias Sociales (FACSO), Universidad de Chile.
 
@@ -73,7 +73,7 @@ Repositorio original del proyecto: [grupo 6](https://github.com/multinivel-facso
 
 ---
 
-## Autores
+## ✍️ Autores
 
 **Cristóbal Mejías** · **Victoria Arias**  
 Facultad de Ciencias Sociales, Universidad de Chile
