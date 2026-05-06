@@ -4,6 +4,12 @@
 
 **Cristóbal Mejías & Victoria Arias** · Análisis de Datos Multinivel · FACSO, Universidad de Chile · Profesor: Juan Carlos Castillo · Ayudante: Kevin Carrasco
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Terminada-4CAF50?style=for-the-badge" alt="Terminada"/>
+  <img src="https://img.shields.io/badge/Modelos_Multinivel-7B1FA2?style=for-the-badge&logoColor=white" alt="Modelos Multinivel"/>
+  <img src="https://img.shields.io/badge/2025-555?style=for-the-badge" alt="2025"/>
+</p>
+
 ---
 
 ## Abstract
@@ -12,7 +18,7 @@ El estatus social subjetivo ha sido un tema poco explorado en América Latina, p
 
 <p align="center">
   <a href="https://cristobal-mejias-g.github.io/estatus-social-subjetivo-multinivel/documento.html">
-    <strong> Ver propuesta completa</strong>
+    <strong> Ver Investigación</strong>
   </a>
 </p>
 
